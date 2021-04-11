@@ -5,7 +5,7 @@ images:
   - undraw_freelancer_b0my.svg
   - null
 draft: false
-menu: mainm
+menu: main
 weight: 1
 ---
 
